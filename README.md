@@ -4,7 +4,6 @@
 
 
 
-### 🐍 My Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themaden/themaden/github-pages/github-contribution-grid-snake-dark.svg">
