@@ -3,11 +3,6 @@ Hi, I'm Yasin Maden 👋
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/themadenysn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-maden/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinnmaden@gmail.com) 
-
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi+there,+I'm+Yasin+👋;Blockchain+Enthusiast;Full+Stack+Developer,AI" alt="Typing SVG" />
