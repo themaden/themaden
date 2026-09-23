@@ -14,7 +14,7 @@ Hi, I'm Yasin Maden 👋
 </p>
 
 
-- 📫 How to reach me **yasinnmaden@gmail.com**
+
 
 
 
