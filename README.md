@@ -5,7 +5,7 @@ Hi, I'm Yasin Maden 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi+there,+I'm+Yasin+👋;Blockchain+Enthusiast;Full+Stack+Developer,AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi+there,+I'm+Yasin+👋;;Full+Stack+Developer,AI" alt="Typing SVG" />
   </a>
 </p>
 
