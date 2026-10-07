@@ -9,9 +9,7 @@ Hi, I'm Yasin Maden 👋
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=themaden&label=Profile%20views&color=0e75b6&style=flat" alt="themaden" />
-</p>
+
 
 
 
